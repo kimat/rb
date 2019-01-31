@@ -15,7 +15,7 @@ L.each{|l| puts l.instance_eval(ARGV.join(' '))}
 ## Setup
 
 ```
-stow . -t ~/.bin
+stow . -t ~
 ```
 
 ## Usage
